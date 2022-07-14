@@ -1,3 +1,6 @@
 .ce-inverted-delimiter {
-  font-size: 30px;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  background-color: #6644ff;
 }

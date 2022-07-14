@@ -46,7 +46,7 @@ class InvertedDelimiter {
    */
   drawView() {
     let div = document.createElement('DIV');
-    div.innerText = `-- ${this.api.i18n.t('Inverted Delimiter')} --`;
+    div.innerText = `${this.api.i18n.t('Inverted Delimiter')}`;
 
     div.classList.add(this._CSS.wrapper, this._CSS.block);
 
